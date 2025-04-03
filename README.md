@@ -1,10 +1,10 @@
 <h1 align = "center">
-💵 Personal Finance Tracker 💵
+💵 Budget Management System 💵
 </h1>
 
 ---
 
-Budget Tracker Application with Unit Testing for CISC-593 Final project
+Budget Management System with Unit Testing for CISC-595 Final project
 
 ## Technology
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
