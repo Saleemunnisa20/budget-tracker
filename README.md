@@ -30,7 +30,7 @@ Budget Management System with Unit Testing for CISC-695-95-0-2025 Final project
  1) Click on the Green < Code > Button on top and copy the url or download the zip 
  2) You can use the cli and copy this url
 ```
-    git clone https://github.com/shiddarthbista/budget-tracker.git
+    git clone https://github.com/saleemunnisa20/budget-tracker.git
 ```
  3) Open using an JVM based IDE. For our development and testing we used [IntelliJ Idea](https://www.jetbrains.com/idea/)
 ### Step 2 : Running the application 
